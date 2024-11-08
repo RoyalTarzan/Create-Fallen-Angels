@@ -5,9 +5,11 @@ JEIEvents.hideItems(event => {
     ])
   })
 
-/*StartupEvents.modifyCreativeTab('kubejs:tab', event => {    
-    event.removeItems([
-        'kubejs:obsidan_onion',
+StartupEvents.modifyCreativeTab('kubejs:tab', event => {    
+    event.removeDisplay(
+        'kubejs:obsidan_onion'
+    ),
+    event.removeDisplay(
         'partial_key'
-    ])
-})*/
+    )
+})

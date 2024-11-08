@@ -10,3 +10,5 @@ StartupEvents.registry('item',event=>{
 StartupEvents.registry('fluid',event=>{
     event.create('creative_fluid').displayName('§5Creative Fluid')
 })
+
+Platform.mods.kubejs.name = 'Create: Fallen Angels'
