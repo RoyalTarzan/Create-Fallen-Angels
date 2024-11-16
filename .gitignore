@@ -1,0 +1,186 @@
+saves/New World/icon.png
+saves/New World/kubejs_persistent_data.nbt
+saves/New World/level.dat
+saves/New World/level.dat_old
+saves/New World/session.lock
+saves/New World/xaeromap.txt
+saves/New World/DIM-1/data/capabilities.dat
+saves/New World/DIM-1/data/raids.dat
+saves/New World/DIM1/data/capabilities.dat
+saves/New World/DIM1/data/raids_end.dat
+saves/New World/advancements/957d12bc-8f4d-43da-8ae5-a23f7f44b8c0.json
+saves/New World/data/capabilities.dat
+saves/New World/data/chunks.dat
+saves/New World/data/create_tracks.dat
+saves/New World/data/heracles_pinned_quests.dat
+saves/New World/data/heracles_quest_progress.dat
+saves/New World/data/raids.dat
+saves/New World/data/random_sequences.dat
+saves/New World/data/scoreboard.dat
+saves/New World/entities/r.-1.-1.mca
+saves/New World/entities/r.-1.-2.mca
+saves/New World/entities/r.-1.0.mca
+saves/New World/entities/r.-1.1.mca
+saves/New World/entities/r.-2.-1.mca
+saves/New World/entities/r.-2.-2.mca
+saves/New World/entities/r.-2.0.mca
+saves/New World/entities/r.-2.1.mca
+saves/New World/entities/r.0.-1.mca
+saves/New World/entities/r.0.-2.mca
+saves/New World/entities/r.0.0.mca
+saves/New World/entities/r.0.1.mca
+saves/New World/entities/r.1.-1.mca
+saves/New World/entities/r.1.-2.mca
+saves/New World/entities/r.1.0.mca
+saves/New World/entities/r.1.1.mca
+saves/New World/playerdata/957d12bc-8f4d-43da-8ae5-a23f7f44b8c0.dat
+saves/New World/playerdata/957d12bc-8f4d-43da-8ae5-a23f7f44b8c0.dat_old
+saves/New World/poi/r.-1.-1.mca
+saves/New World/poi/r.-1.-2.mca
+saves/New World/poi/r.-1.0.mca
+saves/New World/poi/r.-1.1.mca
+saves/New World/poi/r.-2.-1.mca
+saves/New World/poi/r.-2.-2.mca
+saves/New World/poi/r.-2.0.mca
+saves/New World/poi/r.-2.1.mca
+saves/New World/poi/r.0.-1.mca
+saves/New World/poi/r.0.-2.mca
+saves/New World/poi/r.0.0.mca
+saves/New World/poi/r.0.1.mca
+saves/New World/poi/r.1.-1.mca
+saves/New World/poi/r.1.-2.mca
+saves/New World/poi/r.1.0.mca
+saves/New World/poi/r.1.1.mca
+saves/New World/region/r.-1.-1.mca
+saves/New World/region/r.-1.-2.mca
+saves/New World/region/r.-1.-3.mca
+saves/New World/region/r.-1.0.mca
+saves/New World/region/r.-1.1.mca
+saves/New World/region/r.-2.-1.mca
+saves/New World/region/r.-2.-2.mca
+saves/New World/region/r.-2.-3.mca
+saves/New World/region/r.-2.0.mca
+saves/New World/region/r.-2.1.mca
+saves/New World/region/r.-3.-1.mca
+saves/New World/region/r.-3.-2.mca
+saves/New World/region/r.-3.-3.mca
+saves/New World/region/r.-3.0.mca
+saves/New World/region/r.-3.1.mca
+saves/New World/region/r.0.-1.mca
+saves/New World/region/r.0.-2.mca
+saves/New World/region/r.0.-3.mca
+saves/New World/region/r.0.0.mca
+saves/New World/region/r.0.1.mca
+saves/New World/region/r.1.-1.mca
+saves/New World/region/r.1.-2.mca
+saves/New World/region/r.1.-3.mca
+saves/New World/region/r.1.0.mca
+saves/New World/region/r.1.1.mca
+saves/New World/region/r.2.-1.mca
+saves/New World/region/r.2.-2.mca
+saves/New World/region/r.2.-3.mca
+saves/New World/region/r.2.0.mca
+saves/New World/region/r.2.1.mca
+saves/New World/serverconfig/create_connected-server.toml
+saves/New World/serverconfig/create_enchantment_industry-server.toml
+saves/New World/serverconfig/create_power_loader-server.toml
+saves/New World/serverconfig/create-server.toml
+saves/New World/serverconfig/curios-server.toml
+saves/New World/serverconfig/forge-server.toml
+saves/New World/serverconfig/framedblocks-server.toml
+saves/New World/serverconfig/gravestone-server.toml
+saves/New World/serverconfig/jei-server.toml
+saves/New World/serverconfig/railways-server.toml
+saves/New World/serverconfig/tfmg-server.toml
+saves/New World/serverconfig/voicechat-server.toml
+saves/New World/stats/957d12bc-8f4d-43da-8ae5-a23f7f44b8c0.json
+xaero/minimap/New World/config.txt
+xaero/world-map/New World/server_config.txt
+xaero/world-map/New World/null/.lock
+xaero/world-map/New World/null/dimension_config.txt
+xaero/world-map/New World/null/cache_1/-1_-1.xwmc
+xaero/world-map/New World/null/cache_1/-1_-2.xwmc
+xaero/world-map/New World/null/cache_1/-1_0.xwmc
+xaero/world-map/New World/null/cache_1/-2_-1.xwmc
+xaero/world-map/New World/null/cache_1/-2_-2.xwmc
+xaero/world-map/New World/null/cache_1/-2_0.xwmc
+xaero/world-map/New World/null/cache_1/0_-1.xwmc
+xaero/world-map/New World/null/cache_1/0_-2.xwmc
+xaero/world-map/New World/null/cache_1/0_0.xwmc
+xaero/world-map/New World/null/cache_1/1_-1.xwmc
+xaero/world-map/New World/null/cache_1/1_-2.xwmc
+xaero/world-map/New World/null/cache_1/1_0.xwmc
+xaero/world-map/New World/null/caves/4/cache_1/-1_-1.xwmc.outdated
+xaero/world-map/New World/null/caves/4/cache_1/-1_0.xwmc.outdated
+xaero/world-map/New World/null/caves/4/cache_1/0_-1.xwmc.outdated
+xaero/world-map/New World/null/caves/4/cache_1/0_0.xwmc.outdated
+XaeroWaypoints_BACKUP240807/New World/config.txt
+emi.json
+heracles_options.json
+usernamecache.json
+crash-reports/crash-2024-09-06_21.09.29-server.txt
+crash-reports/crash-2024-09-06_21.23.47-server.txt
+crash-reports/crash-2024-09-09_19.37.49-server.txt
+crash-reports/crash-2024-09-09_19.49.57-server.txt
+crash-reports/crash-2024-09-09_19.54.03-server.txt
+crash-reports/crash-2024-09-09_19.57.19-server.txt
+crash-reports/crash-2024-09-12_19.56.20-server.txt
+crash-reports/crash-2024-09-12_20.19.47-server.txt
+crash-reports/crash-2024-09-15_20.03.34-server.txt
+crash-reports/crash-2024-09-16_19.58.50-server.txt
+local/kubejs/dev.properties
+logs/2024-09-06-2.log.gz
+logs/2024-09-06-3.log.gz
+logs/2024-09-06-4.log.gz
+logs/2024-09-06-5.log.gz
+logs/2024-09-08-2.log.gz
+logs/2024-09-08-3.log.gz
+logs/2024-09-08-4.log.gz
+logs/2024-09-09-2.log.gz
+logs/2024-09-09-3.log.gz
+logs/2024-09-09-4.log.gz
+logs/2024-09-09-5.log.gz
+logs/2024-09-12-2.log.gz
+logs/2024-09-12-3.log.gz
+logs/2024-09-12-4.log.gz
+logs/2024-09-15-2.log.gz
+logs/2024-09-16-2.log.gz
+logs/2024-09-16-3.log.gz
+logs/2024-09-16-4.log.gz
+logs/2024-09-27-2.log.gz
+logs/2024-09-28-2.log.gz
+logs/2024-09-29-2.log.gz
+logs/2024-10-04-2.log.gz
+logs/2024-10-04-3.log.gz
+logs/2024-10-04-4.log.gz
+logs/2024-10-05-2.log.gz
+logs/2024-10-05-3.log.gz
+logs/2024-10-05-4.log.gz
+logs/2024-10-07-2.log.gz
+logs/2024-10-12-2.log.gz
+logs/2024-10-24-2.log.gz
+logs/2024-10-25-2.log.gz
+logs/2024-10-25-3.log.gz
+logs/2024-10-25-4.log.gz
+logs/2024-10-25-5.log.gz
+logs/2024-10-28-2.log.gz
+logs/2024-11-16-1.log.gz
+logs/2024-11-16-2.log.gz
+logs/debug-1.log.gz
+logs/debug-2.log.gz
+logs/debug-3.log.gz
+logs/debug-4.log.gz
+logs/debug-5.log.gz
+logs/debug.log
+logs/latest.log
+logs/kubejs/client.log
+logs/kubejs/server.log
+logs/kubejs/startup.log
+logs/telemetry/20241116-1.json.gz
+logs/telemetry/20241116-2.json.gz
+logs/telemetry/20241116-3.json
+configureddefaults/README.md
+.vscode/probe.code-snippets
+usercache.json
+rhino.local.properties
+options.txt
