@@ -1,7 +1,7 @@
 {
   "enable": true,
   "watch_interval_seconds": 0.05,
-  "server_port": 1000,
+  "server_port": 25529,
   "map_style": {
     "font": "ui-monospace, \"JetBrains Mono\", monospace",
     "colors": {

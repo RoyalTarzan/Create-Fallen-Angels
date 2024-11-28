@@ -24,7 +24,7 @@
 	#Allow all blocks to be picked up, not just Tile Entites. White/Blacklist will still be respected.
 	pickupAllBlocks = false
 	#Whether Blocks and Entities slow the creative player down when carried
-	slownessInCreative = true
+	slownessInCreative = false
 	#Whether hostile mobs should be able to picked up in survival mode
 	pickupHostileMobs = false
 	#Larger Entities slow down the player more

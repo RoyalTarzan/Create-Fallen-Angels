@@ -44,10 +44,10 @@ columnsCopper = 7
 columnsGold = 9
 #How many columns does the diamond quiver have?
 #Range: 1 ~ 13
-columnsDiamond = 9
+columnsDiamond = 11
 #How many columns does the Netherite quiver have?
 #Range: 1 ~ 13
-columnsNetherite = 9
+columnsNetherite = 13
 #Range: -1000 ~ 1000
 xPos = 76
 #Range: -1000 ~ 1000
