@@ -1,0 +1,47 @@
+{
+  "dependencies": [
+    "get_some_wood_you_moron"
+  ],
+  "tasks": {
+    "test": {
+      "type": "heracles:item",
+      "item": "#minecraft:planks",
+      "amount": 33,
+      "collection": "AUTOMATIC",
+      "title": "Craft them into planks"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "What the hell is going on!": {
+        "position": [
+          -8,
+          142
+        ]
+      }
+    },
+    "icon": {
+      "item": "#minecraft:planks",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "craft them in to plank"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": [
+    "craft_them_in_to_plank",
+    "this_is_going_on"
+  ],
+  "tasks": {
+    "LOgs": {
+      "type": "heracles:item",
+      "item": "#minecraft:logs",
+      "amount": 7,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "test": {
+      "item": {
+        "id": "minecraft:oak_log",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "What the hell is going on!": {
+        "position": [
+          134,
+          97
+        ]
+      }
+    },
+    "icon": {
+      "item": "#minecraft:logs",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Get some wood you moron!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "DEPENDENCIES_VISIBLE",
+    "unlockNotification": false
+  }
+}

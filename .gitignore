@@ -184,3 +184,22 @@ configureddefaults/README.md
 usercache.json
 rhino.local.properties
 options.txt
+logs/2024-11-16-3.log.gz
+logs/2024-11-16-4.log.gz
+logs/telemetry/20241116-3.json.gz
+logs/telemetry/20241121-1.json
+xaero/world-map/New World/null/cache_1/-1_-1.xwmc.outdated
+xaero/world-map/New World/null/cache_1/-1_-2.xwmc.outdated
+xaero/world-map/New World/null/cache_1/-1_0.xwmc.outdated
+xaero/world-map/New World/null/cache_1/-2_-1.xwmc.outdated
+xaero/world-map/New World/null/cache_1/-2_-2.xwmc.outdated
+xaero/world-map/New World/null/cache_1/-2_0.xwmc.outdated
+xaero/world-map/New World/null/cache_1/0_-1.xwmc.outdated
+xaero/world-map/New World/null/cache_1/0_-2.xwmc.outdated
+xaero/world-map/New World/null/cache_1/0_0.xwmc.outdated
+xaero/world-map/New World/null/cache_1/1_-1.xwmc.outdated
+xaero/world-map/New World/null/cache_1/1_-2.xwmc.outdated
+xaero/world-map/New World/null/cache_1/1_0.xwmc.outdated
+config/voicechat/username-cache.json
+logs/2024-11-21-2.log.gz
+logs/telemetry/20241128-1.json
