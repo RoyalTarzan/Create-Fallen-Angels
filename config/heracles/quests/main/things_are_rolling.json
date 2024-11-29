@@ -7,7 +7,9 @@
       "type": "heracles:check"
     }
   },
-  "rewards": {},
+  "rewards": {
+
+  },
   "display": {
     "subtitle": {
       "text": ""
@@ -36,11 +38,11 @@
     }
   },
   "settings": {
-      "showDependencyArrow": true,
-      "repeatable": false,
-      "autoClaimRewards": false,
-      "individual_progress": false,
-      "hidden": "DEPENDENCIES_VISIBLE",
-      "unlockNotification": false
-    }
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "DEPENDENCIES_VISIBLE",
+    "unlockNotification": false
   }
+}

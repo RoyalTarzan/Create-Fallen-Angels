@@ -1,0 +1,45 @@
+{
+    "dependencies": [
+      "things_are_rolling"
+    ],
+    "tasks": {
+      "check": {
+        "type": "heracles:check"
+      }
+    },
+    "rewards": {
+  
+    },
+    "display": {
+      "subtitle": {
+        "text": ""
+      },
+      "description": [
+        ""
+      ],
+      "groups": {
+        "Main": {
+          "position": [
+            0,
+            0
+          ]
+        }
+      },
+      "icon": {
+        "item": "heracles:check",
+        "type": "heracles:check"
+      },
+      "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+      "title": {
+        "translate": ""
+      }
+    },
+    "settings": {
+      "showDependencyArrow": true,
+      "repeatable": false,
+      "autoClaimRewards": false,
+      "individual_progress": false,
+      "hidden": "DEPENDENCIES_VISIBLE",
+      "unlockNotification": false
+    }
+  }

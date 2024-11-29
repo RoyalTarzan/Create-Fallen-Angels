@@ -1,0 +1,53 @@
+{
+  "dependencies": [
+    "some_things_i_have_to_say",
+    "craft_them_into_plank"
+  ],
+  "tasks": {
+    "tools": {
+      "type": "heracles:item",
+      "item": ["minecraft:wooden_axe","minecraft:wooden_pickaxe","minecraft:wooden_shovel","minecraft:wooden_sword"],
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title":"make some tools"
+    }
+  },
+  "rewards": {
+
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+        "So it looks like you really want to do this...",
+        "",
+        "",
+        "Then making some tools so can get further than just wood!!"
+    ],
+    "groups": {
+        "Main": {
+          "position": [
+            0,
+            144
+          ]
+        }
+    },
+    "icon": {
+        "item": "#minecraft:axe",
+        "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+        "translate": "Tools"
+    }
+  },
+    "settings": {
+      "showDependencyArrow": true,
+      "repeatable": false,
+      "autoClaimRewards": false,
+      "individual_progress": false,
+      "hidden": "DEPENDENCIES_VISIBLE",
+      "unlockNotification": false
+    }
+}
