@@ -1,14 +1,27 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "this_is_going_on"
+  ],
   "tasks": {
-    "test": {
-      "type": "heracles:check"
+    "LOgs": {
+      "type": "heracles:item",
+      "item": "#minecraft:logs",
+      "amount": 7,
+      "collection": "AUTOMATIC"
     }
   },
-  "rewards": {},
+  "rewards": {
+    "test": {
+      "item": {
+        "id": "minecraft:oak_log",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
   "display": {
     "subtitle": {
-      "translate": "So you're the bastard that tried to go against me and tried to kill me?\nWell it's clear that didn't work.\nNow you will complete all the quest I give you other wise you won't get you're powers back!"
+      "text": ""
     },
     "description": [
       ""
@@ -17,20 +30,17 @@
       "What the hell is going on!": {
         "position": [
           0,
-          0
+          48
         ]
       }
     },
     "icon": {
-      "item": {
-        "id": "minecraft:map",
-        "count": 1
-      },
+      "item": "#minecraft:logs",
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "This is going on"
+      "translate": "Get some wood you moron!"
     }
   },
   "settings": {

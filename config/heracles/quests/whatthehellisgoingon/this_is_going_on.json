@@ -1,0 +1,49 @@
+{
+  "dependencies": [
+    "some_things_i_have_to_say"
+  ],
+  "tasks": {
+    "test": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": ""
+    },
+    "description": [
+      "So you're the bastard that tried to go against me and tried to kill me?",
+      "Well it's clear that didn't work.",
+      "Now you will complete all the quest I give you other wise you won't get you're powers back!",
+      "Even then I might not give them back ..."
+    ],
+    "groups": {
+      "What the hell is going on!": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:map",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "This is going on"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "DEPENDENCIES_VISIBLE",
+    "unlockNotification": false
+  }
+}

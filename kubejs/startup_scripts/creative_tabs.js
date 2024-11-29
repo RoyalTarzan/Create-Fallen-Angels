@@ -9,4 +9,5 @@ StartupEvents.modifyCreativeTab('kubejs:tab', event => {
     )
 
     event.icon = "kubejs:creative_key"
+    event.displayName = "Create: Fallen Angels"
 })

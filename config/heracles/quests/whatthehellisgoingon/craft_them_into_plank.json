@@ -14,16 +14,17 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "text": "Make some f*cking planks!"
     },
     "description": [
-      ""
+      "You actually forgot everything? That does surprise me!",
+      "but"
     ],
     "groups": {
       "What the hell is going on!": {
         "position": [
-          -8,
-          142
+          0,
+          96
         ]
       }
     },
@@ -31,9 +32,9 @@
       "item": "#minecraft:planks",
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "craft them in to plank"
+      "translate": "Craft plankS"
     }
   },
   "settings": {
@@ -41,7 +42,7 @@
     "repeatable": false,
     "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED",
+    "hidden": "DEPENDENCIES_VISIBLE",
     "unlockNotification": false
   }
 }
