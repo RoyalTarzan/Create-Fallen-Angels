@@ -1,53 +1,86 @@
 {
   "dependencies": [
-    "some_things_i_have_to_say",
-    "craft_them_into_plank"
+    "craft_them_into_plank",
+    "some_things_i_have_to_say"
   ],
   "tasks": {
-    "tools": {
+    "tool2": {
       "type": "heracles:item",
-      "item": ["minecraft:wooden_axe","minecraft:wooden_pickaxe","minecraft:wooden_shovel","minecraft:wooden_sword"],
+      "item": "minecraft:wooden_pickaxe",
+      "nbt": {
+        "Damage": 0
+      },
       "amount": 1,
       "collection": "AUTOMATIC",
-      "title":"make some tools"
+      "title": "Collect or make a pickaxe"
+    },
+    "tool3": {
+      "type": "heracles:item",
+      "item": "minecraft:wooden_shovel",
+      "nbt": {
+        "Damage": 0
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Collect or make a shovel"
+    },
+    "Tool": {
+      "type": "heracles:item",
+      "item": "minecraft:wooden_axe",
+      "nbt": {
+        "Damage": 0
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Collect or make a axe"
     }
   },
   "rewards": {
-
+    "some exp": {
+      "xptype": "POINTS",
+      "amount": 1,
+      "type": "heracles:xp"
+    }
   },
   "display": {
     "subtitle": {
       "text": ""
     },
     "description": [
-        "So it looks like you really want to do this...",
-        "",
-        "",
-        "Then making some tools so can get further than just wood!!"
+      "So it looks like you really want to do this...",
+      "",
+      "",
+      "/4/**Then making some tools so you can get further than just wood!!**/4/"
     ],
     "groups": {
-        "Main": {
-          "position": [
-            0,
-            144
-          ]
-        }
+      "What the hell is going on!": {
+        "position": [
+          0,
+          144
+        ]
+      }
     },
     "icon": {
-        "item": "#minecraft:axe",
-        "type": "heracles:item"
+      "item": {
+        "id": "minecraft:wooden_axe",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-        "translate": "Tools"
+      "translate": "Tools"
     }
   },
-    "settings": {
-      "showDependencyArrow": true,
-      "repeatable": false,
-      "autoClaimRewards": false,
-      "individual_progress": false,
-      "hidden": "DEPENDENCIES_VISIBLE",
-      "unlockNotification": false
-    }
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "DEPENDENCIES_VISIBLE",
+    "unlockNotification": false
+  }
 }

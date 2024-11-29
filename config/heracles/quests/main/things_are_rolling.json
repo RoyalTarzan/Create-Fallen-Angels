@@ -7,9 +7,7 @@
       "type": "heracles:check"
     }
   },
-  "rewards": {
-
-  },
+  "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
@@ -29,10 +27,13 @@
       }
     },
     "icon": {
-      "item": "heracles:check",
-      "type": "heracles:check"
+      "item": {
+        "id": "minecraft:map",
+        "count": 1
+      },
+      "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
     "title": {
       "translate": "Things are rolling"
     }

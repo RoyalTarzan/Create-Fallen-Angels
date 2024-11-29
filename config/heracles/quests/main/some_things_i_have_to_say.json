@@ -26,8 +26,8 @@
         }
       },
       "icon": {
-        "item": "heracles:check",
-        "type": "heracles:check"
+        "item": "minecraft:paper",
+        "type": "heracles:item"
       },
       "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
       "title": {
