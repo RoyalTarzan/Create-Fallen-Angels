@@ -233,7 +233,6 @@ mods/create-track-map-1.4+mc1.20.1-neoforge.jar
 mods/CreateCasing-1.20.1-1.6.2-fix1.jar
 mods/CreateCompression-1.20.1-1.8.1.jar
 mods/createdeco-2.0.2-1.20.1-forge.jar
-mods/creategoggles-1.20.1-0.5.5.g-\[FORGE].jar
 mods/createliquidfuel-2.1.1-1.20.1.jar
 mods/CreateMoreAutomation-1.20.1-0.4.0.jar
 mods/curios-forge-5.11.0+1.20.1.jar
@@ -265,7 +264,6 @@ mods/oculus-mc1.20.1-1.7.0.jar
 mods/probejs-7.0.0-forge.jar
 mods/resourcefullib-forge-1.20.1-2.1.29.jar
 mods/rhino-forge-2001.2.3-build.6.jar
-mods/shulkerboxtooltip-forge-4.0.4+1.20.1.jar
 mods/ShulkerTooltip-1.13.jar
 mods/sliceanddice-forge-3.3.0.jar
 mods/spark-1.10.53-forge.jar
@@ -277,3 +275,7 @@ mods/travelersbackpack-forge-1.20.1-9.1.16.jar
 mods/voicechat-forge-1.20.1-2.5.26.jar
 mods/Xaeros_Minimap_24.6.1_Forge_1.20.jar
 mods/XaerosWorldMap_1.39.0_Forge_1.20.jar
+logs/2024-11-29-3.log.gz
+logs/2024-11-29-4.log.gz
+logs/telemetry/20241129-3.json.gz
+logs/telemetry/20241201-1.json

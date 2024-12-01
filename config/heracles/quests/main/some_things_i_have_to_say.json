@@ -1,45 +1,48 @@
 {
-    "dependencies": [],
-    "tasks": {
-      "check": {
-        "type": "heracles:check"
-      }
-    },
-    "rewards": {},
-    "display": {
-      "subtitle": {
-        "text": ""
-      },
-      "description": [
-        "This modpack is my first so don't be scared it's not gregefied or something like that.",
-        "But if you have some feedback or suggestions everything is welcome and you can head to the modritnh page,",
-        "there is a link to either the github page or my discord server.",
-        "Either way, if you complete this quest the pack will be started and I wish you good luck cause", 
-        "there's a angry being waiting for you"
-      ],
-      "groups": {
-        "Main": {
-          "position": [
-            0,
-            0
-          ]
-        }
-      },
-      "icon": {
-        "item": "minecraft:paper",
-        "type": "heracles:item"
-      },
-      "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
-      "title": {
-        "translate": "Some things I have to say"
-      }
-    },
-    "settings": {
-      "showDependencyArrow": true,
-      "repeatable": false,
-      "autoClaimRewards": false,
-      "individual_progress": false,
-      "hidden": "DEPENDENCIES_VISIBLE",
-      "unlockNotification": false
+  "dependencies": [],
+  "tasks": {
+    "check": {
+      "type": "heracles:check"
     }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "This modpack is my first so don't be scared it's not gregefied or something like that.",
+      "But if you have some feedback or suggestions everything is welcome and you can head to the modritnh page,",
+      "there is a link to either the github page or my discord server.",
+      "Either way, if you complete this quest the pack will be started and I wish you good luck cause",
+      "there's a angry being waiting for you"
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:paper",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Some things I have to say"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
+}

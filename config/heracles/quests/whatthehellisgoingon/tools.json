@@ -1,7 +1,6 @@
 {
   "dependencies": [
-    "craft_them_into_plank",
-    "some_things_i_have_to_say"
+    "craft_them_into_plank"
   ],
   "tasks": {
     "tool2": {

@@ -1,40 +1,44 @@
 {
   "dependencies": [
-    "get_some_wood_you_moron"
+    "tools"
   ],
   "tasks": {
-    "test": {
+    "stone": {
       "type": "heracles:item",
-      "item": "#minecraft:planks",
-      "amount": 33,
+      "item": "minecraft:cobblestone",
+      "amount": 32,
       "collection": "AUTOMATIC",
-      "title": "Craft them into planks"
+      "title": "Get some stone"
     }
   },
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Make some f*cking planks!"
+      "text": ""
     },
     "description": [
-      "You actually forgot everything? That does surprise me!",
-      "but"
+      "So I really do need to explain everything to you?",
+      "",
+      "This is gonna take a long time, a very long time, even for me!"
     ],
     "groups": {
       "What the hell is going on!": {
         "position": [
           0,
-          96
+          192
         ]
       }
     },
     "icon": {
-      "item": "#minecraft:planks",
+      "item": {
+        "id": "minecraft:cobblestone",
+        "count": 1
+      },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Craft plankS"
+      "translate": "Then get some stone"
     }
   },
   "settings": {
