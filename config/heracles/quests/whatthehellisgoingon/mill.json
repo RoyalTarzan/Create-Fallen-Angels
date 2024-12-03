@@ -1,44 +1,35 @@
 {
   "dependencies": [
-    "tools"
+    "smel",
+    "shaft2",
+    "shaft",
+    "cogcasing"
   ],
-  "tasks": {
-    "andesite": {
-      "type": "heracles:item",
-      "item": "minecraft:andesite",
-      "amount": 27,
-      "collection": "CONSUME",
-      "title": "Get some andesite"
-    }
-  },
+  "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [
-      "0r you could get some stone and invent some stuff.",
-      "",
-      "**/4/But don't get to hasty or happy cause you're gonna hand it over to me!/4/**"
-    ],
+    "description": [],
     "groups": {
       "What the hell is going on!": {
         "position": [
-          -48,
-          192
+          0,
+          336
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:andesite",
+        "id": "create:millstone",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Andesite"
+      "translate": "mill"
     }
   },
   "settings": {
@@ -46,7 +37,7 @@
     "repeatable": false,
     "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "DEPENDENCIES_VISIBLE",
+    "hidden": "LOCKED",
     "unlockNotification": false
   }
 }

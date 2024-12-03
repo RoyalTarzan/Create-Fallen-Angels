@@ -1,0 +1,61 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "iron": {
+      "type": "heracles:item",
+      "item": "minecraft:iron_ingot",
+      "amount": 640,
+      "collection": "AUTOMATIC",
+      "title": "Submit 10 stacks of iron ingots"
+    },
+    "time": {
+      "stat": "minecraft:play_time",
+      "target": 1728000,
+      "title": "Play at least 1 day",
+      "type": "heracles:stat"
+    },
+    "cobble": {
+      "type": "heracles:item",
+      "item": "minecraft:cobblestone",
+      "amount": 1280,
+      "collection": "MANUAL",
+      "title": "Submit 20 stacks of cobble"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "What the hell is going on!": {
+        "position": [
+          0,
+          576
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:clock",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Final thing (for now)"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

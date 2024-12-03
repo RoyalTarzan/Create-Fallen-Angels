@@ -1,11 +1,13 @@
 {
   "dependencies": [
-    "final_thing_for_now",
-    "some_things_i_have_to_say"
+    "andesite"
   ],
   "tasks": {
-    "check": {
-      "type": "heracles:check"
+    "iron nuggets": {
+      "type": "heracles:item",
+      "item": "minecraft:iron_nugget",
+      "amount": 20,
+      "collection": "AUTOMATIC"
     }
   },
   "rewards": {},
@@ -14,29 +16,26 @@
       "text": ""
     },
     "description": [
-      "So I see that you have survived the first few days or maybe even weeks.",
-      "I don't know time works different here and the nights zoom by in 5 seconds while it takes 10 min",
-      "in other universes. But I should hold you back cause that being -I don't much about him- is waiting for you.",
-      "One thing I know about him is that you're related to him in some way or another."
+      ""
     ],
     "groups": {
-      "Main": {
+      "What the hell is going on!": {
         "position": [
-          48,
-          0
+          -48,
+          240
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "minecraft:iron_nugget",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Things are rolling"
+      "translate": "Iron"
     }
   },
   "settings": {
