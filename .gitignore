@@ -1,0 +1,17 @@
+saves/**
+xaero/**
+XaeroWaypoints_BACKUP240807/**
+emi.json
+heracles_options.json
+usernamecache.json
+crash-reports/**
+local/**
+logs/**
+configureddefaults/README.md
+.vscode/probe.code-snippets
+usercache.json
+rhino.local.properties
+options.txt
+config/voicechat/username-cache.json
+
+schematics/**
