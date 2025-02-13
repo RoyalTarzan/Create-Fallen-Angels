@@ -20,6 +20,27 @@
       "amount": 1280,
       "collection": "MANUAL",
       "title": "Submit 20 stacks of cobble"
+    },
+    "alloy": {
+      "type": "heracles:item",
+      "item": "create:andesite_alloy",
+      "amount": 128,
+      "collection": "MANUAL",
+      "title": "Submit 2 stacks of andesite alloy"
+    },
+    "cogs": {
+      "type": "heracles:item",
+      "item": "create:cogwheel",
+      "amount": 32,
+      "collection": "MANUAL",
+      "title": "Submit half a stack of cogwheels"
+    },
+    "shaft": {
+      "type": "heracles:item",
+      "item": "create:shaft",
+      "amount": 128,
+      "collection": "MANUAL",
+      "title": "Submit 2 stacks of shafts"
     }
   },
   "rewards": {},
@@ -28,7 +49,10 @@
       "text": ""
     },
     "description": [
-      ""
+      "So this time you don't need to do a lot of things just automating",
+      "**everything** from this chapter and playing some more like at least 1 day.",
+      "So that's nothing, if you want you can build something but I might destroy it if",
+      "I want to but I don't know you'll see that."
     ],
     "groups": {
       "What the hell is going on!": {
