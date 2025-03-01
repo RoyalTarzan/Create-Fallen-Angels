@@ -1,15 +1,24 @@
 {
   "dependencies": [
-    "shaft2",
-    "shaft"
+    "shaft2"
   ],
-  "tasks": {},
+  "tasks": {
+    "cog": {
+      "type": "heracles:item",
+      "item": "create:cogwheel",
+      "amount": 4,
+      "collection": "MANUAL",
+      "title": "Submit 4 cogwheels"
+  }},
   "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "",
+      ""
+    ],
     "groups": {
       "What the hell is going on!": {
         "position": [
@@ -21,7 +30,7 @@
     "icon": {
       "item": {
         "id": "create:cogwheel",
-        "count": 1
+        "count": 5
       },
       "type": "heracles:item"
     },

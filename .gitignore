@@ -16,3 +16,5 @@ config/voicechat/username-cache.json
 mods/**
 schematics/**
 probe/**
+shaderpacks/**
+shaderpacks/ComplementaryReimagined_r5.1.1.zip

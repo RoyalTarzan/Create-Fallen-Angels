@@ -2,13 +2,24 @@
   "dependencies": [
     "alloy"
   ],
-  "tasks": {},
+  "tasks": {
+  "cobble": {
+    "type": "heracles:item",
+    "item": "create:shaft",
+    "amount": 16,
+    "collection": "MANUAL",
+    "title": "Submit 16 Shafts"
+  }},
   "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Getting shafts is really important but once again **you** should know that.",
+      "",
+      "But make sure that there is nobody near you once you're done."
+    ],
     "groups": {
       "What the hell is going on!": {
         "position": [
