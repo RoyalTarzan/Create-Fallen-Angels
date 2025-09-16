@@ -12,8 +12,9 @@ configureddefaults/README.md
 usercache.json
 rhino.local.properties
 options.txt
-config/voicechat/username-cache.json
 mods/**
 schematics/**
 probe/**
 shaderpacks/**
+servers.dat
+config/voicechat/username-cache.json
