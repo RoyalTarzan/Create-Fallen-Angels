@@ -26,33 +26,21 @@ ServerEvents.recipes(event=>{
     })
     
     event.recipes.createMechanicalCrafting('create_connected:creative_fluid_vessel',[
-        'iBVSWSVBi',
-        'BCpZTZpCB',
-        'VDHFTFHDV',
-        'PpFIRIFpP',
-        'LTTRCRTTL',
-        'PpFIRIFpP',
-        'VdHFTFHdV',
-        'BCpZTZpCB',
-        'iBVSWSVBi'
+        'CCCCCCCCC',
+        'CFFFBFFFC',
+        'CVVVBVVVC',
+        'C  NBN  C',
+        'C  NCN  C',
+        'C  NBN  C',
+        'CVVVBVVVC',
+        'CFFFBFFFC',
+        'CCCCCCCCC'
     ],{
-        R:'railways:fuel_tank',
-        T:'create:fluid_tank',
-        V:'create_connected:fluid_vessel',
-        I:'create:portable_fluid_interface',
-        i:'railways:portable_fuel_interface',
         C:'createcasing:creative_casing',
-        B:'minecraft:bucket',
-        W:'minecraft:water_bucket',
-        L:'minecraft:lava_bucket',
-        S:'sliceanddice:fertilizer_bucket',
-        F:'tfmg:cooling_fluid_bucket',
-        Z:'createcasing:chorium_ingot',
-        P:'create:mechanical_pump',
-        p:'create:fluid_pipe',
-        D:'create:netherite_diving_helmet',
-        d:'create:netherite_diving_boots',
-        H:'create:hose_pulley'
+        B:'kubejs:creative_fluid_bucket',
+        F:'create:fluid_tank',
+        V:'create_connected:fluid_vessel',
+        N:'minecraft:nether_star'
     })
     
     event.recipes.createMechanicalCrafting('kubejs:unformed_key_piece',[
@@ -144,32 +132,44 @@ ServerEvents.recipes(event=>{
     })
 
     event.recipes.createMechanicalCrafting('create:creative_crate',[
-        '         ',
-        '         ',
-        '         ',
-        '         ',
-        '    C    ',
-        '         ',
-        '         ',
-        '         ',
-        '         '
+        'CCCCCCCCC',
+        'TUV N VUT',
+        'TSD N DST',
+        'TESDNDSET',
+        'BBVVCVVBB',
+        'TESDNDSET',
+        'TSD N DST',
+        'TUV N VUT',
+        'CCCCCCCCC'
     ],{
         C:'createcasing:creative_casing',
+        B:'minecraft:barrel',
+        T:'travelersbackpack:standard',
+        V:'create:item_vault',
+        N:'minecraft:nether_star',
+        U:'travelersbackpack:netherite_tier_upgrade',
+        D:'travelersbackpack:diamond_tier_upgrade',
+        S:'create_connected:item_silo',
+        E:'minecraft:ender_eye'
         
     })
 
     event.recipes.createMechanicalCrafting('create:creative_fluid_tank',[
-        '         ',
-        '         ',
-        '         ',
-        '         ',
-        '    C    ',
-        '         ',
-        '         ',
-        '         ',
-        '         '
+        'CCCCCCCCC',
+        'CFV   VFC',
+        'CFV   VFC',
+        'CFVNNNVFC',
+        'CBBBCBBBC',
+        'CFVNNNVFC',
+        'CFV   VFC',
+        'CFV   VFC',
+        'CCCCCCCCC'
     ],{
         C:'createcasing:creative_casing',
+        B:'kubejs:creative_fluid_bucket',
+        F:'create:fluid_tank',
+        V:'create_connected:fluid_vessel',
+        N:'minecraft:nether_star'
         
     })
 
